@@ -74,24 +74,6 @@ Hydra Crab 2.0 supports multiple software platforms and integrations, including:
 
 ---
 
-## Visual Interface Preview
-
-```bash
-[Hydra Crab 2.0 Control GUI]
-
-+-----------------------------------+
-|  [ Live Camera Feed ]             |
-|                                   |
-|   Depth: 5.3m   |  Temp: 23°C    |
-|                                   |
-|   [ ↑ Forward ]   [ ↓ Backward ]  |
-|   [ ← Left  ]     [ → Right  ]    |
-|                                   |
-|   [ Settings ]    [ Training Mode ] |
-+-----------------------------------+
-
----
-
 ## Developed By
 
 **UIU Advanced Underwater Robotics and Automation. — Team H.Y.D.RA (Hydrodynamic Yielding Deep Research Apparatus)**  
@@ -102,6 +84,10 @@ Hydra Crab 2.0 supports multiple software platforms and integrations, including:
 - **Anika Tabassum Orchie** — Team Lead UIU AURA-CREW  
 
 Both authors contributed to the **full development, coding, and implementation** of Hydra Crab 2.0’s control system, GUI interface, and motion algorithms.
+---
+
+
+
 
 
 
