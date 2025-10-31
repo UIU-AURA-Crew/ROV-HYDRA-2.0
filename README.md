@@ -76,15 +76,20 @@ Hydra Crab 2.0 supports multiple software platforms and integrations, including:
 
 ## Developed By
 
-**UIU Advanced Underwater Robotics and Automation. — Team H.Y.D.RA (Hydrodynamic Yielding Deep Research Apparatus)**  
+**UIU Advanced Underwater Robotics and Automation.**  
 *Innovating Underwater Intelligence.*
 
 **Main Authors & Developers:**  
+
 - **Md. Darain Khan** — Lead Programmer, Hardware Integration, and Control System Design  
-- **Anika Tabassum Orchie** — Team Lead UIU AURA-CREW  
+- **Anika Tabassum Orchie** — Team Lead, UIU AURA-CREW
+  
+**Credit Authority:** UIU Advanced Underwater Robotics and Automation
+
 
 Both authors contributed to the **full development, coding, and implementation** of Hydra Crab 2.0’s control system, GUI interface, and motion algorithms.
 ---
+
 
 
 
