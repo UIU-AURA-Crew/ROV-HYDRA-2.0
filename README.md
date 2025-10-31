@@ -8,7 +8,7 @@
 
 ## About
 
-The **Hydra Crab 2.0** is a compact underwater **Remotely Operated Vehicle (ROV)** developed by **Team H.Y.D.RA** under **DiFly Tech Ltd.**  
+The **Hydra Crab 2.0** is a compact underwater **Remotely Operated Vehicle (ROV)** developed by **UIU Mariner** under **UIU Advanced Underwater Robotics and Automation.**  
 It serves as a training and research platform for underwater robotics, combining simplicity, control precision, and expandability.  
 Built for education, research, and innovation, Hydra Crab 2.0 is the ideal tool for exploring marine environments, performing small-scale underwater inspections, and teaching control system design.
 
@@ -90,7 +90,7 @@ Hydra Crab 2.0 supports multiple software platforms and integrations, including:
 |   [ Settings ]    [ Training Mode ] |
 +-----------------------------------+
 
-
+---
 
 ## Developed By
 
@@ -102,6 +102,7 @@ Hydra Crab 2.0 supports multiple software platforms and integrations, including:
 - **Anika Tabassum Orchie** — Team Lead UIU AURA-CREW  
 
 Both authors contributed to the **full development, coding, and implementation** of Hydra Crab 2.0’s control system, GUI interface, and motion algorithms.
+
 
 
 
