@@ -82,4 +82,5 @@ Hydra Crab 2.0 supports multiple software platforms and integrations, including:
 
 
 
-![crab2_resized (1)](https://github.com/user-attachments/assets/0c4cf309-e7f6-4cde-93ae-a4ace3820737)
+
+
